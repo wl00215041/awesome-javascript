@@ -2,6 +2,11 @@
 
 ## Packages
 
+### HTTP Request
+
+1. [Axios](https://github.com/axios/axios): HTTP request lib
+  1.1 [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter): Axios Mock adapter
+
 
 ### Browser related
 
