@@ -15,6 +15,9 @@
 
 1. [ua-parser-js](https://github.com/faisalman/ua-parser-js): Parse brwoser user agent info (Browser, OS, ...)
 
+### Utils
+
+1. [Clipboard.JS](https://github.com/zenorocha/clipboard.js): Modern copy to clipboard. No Flash. Just 3kb gzipped.
 
 ## VueJS
 
