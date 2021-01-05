@@ -21,6 +21,9 @@
 
 ## VueJS
 
+### Editor
+
+1. [Vue Monaco](https://www.npmjs.com/package/vue-monaco): VSCode for frontend editor
 
 ### Error handle
 
